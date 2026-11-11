@@ -2,16 +2,16 @@
 
 Här publiceras installationsfiler för HeadMouse Manager för Windows.
 
-**Senaste version: [HeadMouse Manager 1.2.5](https://github.com/mistrosss/headmouse-manager-downloads/releases/tag/v1.2.5)**
+**Senaste version: [HeadMouse Manager 1.2.6](https://github.com/mistrosss/headmouse-manager-downloads/releases/tag/v1.2.6)**
 
-- [Ladda ner installationsfilen för Windows x64](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.5/HeadMouseManager-1.2.5-Setup.exe)
-- [Portabel version (ZIP)](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.5/HeadMouseManager-1.2.5-portable-win-x64.zip)
-- [Kom igång](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.5/Kom-igang.txt)
-- [SHA-256-kontrollsummor](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.5/SHA256SUMS.txt)
+- [Ladda ner installationsfilen för Windows x64](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.6/HeadMouseManager-1.2.6-Setup.exe)
+- [Portabel version (ZIP)](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.6/HeadMouseManager-1.2.6-portable-win-x64.zip)
+- [Kom igång](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.6/Kom-igang.txt)
+- [SHA-256-kontrollsummor](https://github.com/mistrosss/headmouse-manager-downloads/releases/download/v1.2.6/SHA256SUMS.txt)
 
 Programmet låter två USB-huvudmöss styra varsin skärm och kan köra i bakgrunden med en ikon vid klockan. Installationsfilen innehåller .NET och kräver inga extra drivrutiner. En vanlig reservmus är valfri.
 
-Version 1.2.5 förbättrar klick och manuell dragning över det valda Comfort-tangentbordet. Om Comfort kör med högre behörighet används vanlig Windows-mus över tangentbordet, från anslutna möss, tills knappen släppts och pekaren lämnat tangentbordet. Huvudstyrningen återupptas därefter på samma huvudmus. Godkänt tangentbordsstöd kan behålla filtreringen över det verifierade Comfort-tangentbordet.
+I version 1.2.6 kan du markera **Håll Comfort-tangentbordet synligt** på fliken **Skärmtangentbord**. Det valda Comfort-tangentbordet visas igen om det döljs eller minimeras, även när huvudmusstyrningen är pausad.
 
 Programmet förhindrar att små rörelser från en vanlig mus avbryter huvudmusen. Klicka med den vanliga musen för att ta över. Tillfälliga avbrott återansluter till samma huvudmus utan ett nytt aktiveringsklick; manuella pauser respekteras.
 
